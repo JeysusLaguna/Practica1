@@ -122,5 +122,9 @@ body{
     text-align: center;
 } 
 
-
-
+.imgRedonda {
+    width:150px;
+    height:150px;
+    border-radius:160px;
+    border:10px solid #666;
+}
